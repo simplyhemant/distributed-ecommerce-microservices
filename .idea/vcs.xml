@@ -2,13 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/config-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/customer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/notification" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/order" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/product" vcs="Git" />
   </component>
 </project>
